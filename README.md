@@ -1,4 +1,7 @@
-### Hi there, I'm Karnis Fatema 👋
+<div align=center>
+  ### Hi there, I'm Karnis Fatema 👋
+</div>
+
 
 
 Hello,
