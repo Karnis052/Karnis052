@@ -13,13 +13,13 @@ I am Karnis Fatema, currently working at Samsung Research & Development Banglade
 
 ### Skills
 ---
-- Language:  C++,  C,  Kotlin,  Javascript,  Python-
-- Database:  MySQL,  PostSQL,  Redis,  Room
+- Language:  C++,  C,  Kotlin,  Javascript,  Python
+- Database:  MySQL,  PostgreSQL,  Redis,  Room
+- Libraries:  TensorFlow, PyTorch, Pandas, Keras, Scikit-learn
 - Frontend:  Vue.js,  React,  Jetpack Compose
-- Backend:  Laravel,  Node.js
-- Libraries:  Tensorflow,  Pytorch
-- Operating system:  Linux,  RTOS,  Windows
-- Tools:  Git/Github,  Jira
+- Backend:  Laravel, Node.js
+- Operating system:  Linux, Windows, RTOS
+- Software & Tools:  Git, GitHub, LaTeX, Docker, Jupyter, Jira
 
 
 ### Links
