@@ -8,17 +8,25 @@
 
 Hello,
 
-I am Karnis Fatema, currently working at Samsung Research & Development Bangladesh as a Software Engineer. I am working closely with the Biomarkers and Health AI pipeline, where I implement android apps for the experiments. Earlier, I have worked on embedded system, especially audio and Bluetooth system in RTOS devices. In addition, I completed my undergraduate degree in Computer Science and Engineering from CUET, where I have done my thesis in biomedical and signal processing domain of machine learning. I am enthusiastic about reinforcement learning, biomedical sector and their applicability in embedded systems. 
+I am currently working at Samsung Research & Development Bangladesh (SRBD) as a Software Engineer. I work on Biomarkers and Healthcare AI applications, implementing Android software for clinical research experiments. Previously, I worked on embedded software for RTOS-based audio and Bluetooth systems. I completed my undergraduate degree in Computer Science and Engineering at CUET, where my undergraduate thesis focused on biomedical signal processing using deep learning. 
+
+
+### Research Interests
+
+- Reinforcement Learning
+- Healthcare AI
+- Biomedical Signal Processing
+- Intelligent Embedded Systems
 
 
 ### Skills
 ---
-- Language:  C++,  C,  Kotlin,  Javascript,  Python
+- Programming Language:  C++,  C,  Kotlin,  Javascript,  Python
 - Database:  MySQL,  PostgreSQL,  Redis,  Room
 - Libraries:  TensorFlow, PyTorch, Pandas, Keras, Scikit-learn
 - Frontend:  Vue.js,  React,  Jetpack Compose
 - Backend:  Laravel, Node.js
-- Operating system:  Linux, Windows, RTOS
+- Operating systems:  Linux, Windows, RTOS
 - Software & Tools:  Git, GitHub, LaTeX, Docker, Jupyter, Jira
 
 
