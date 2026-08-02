@@ -12,7 +12,7 @@ I am currently working at Samsung Research & Development Bangladesh (SRBD) as a 
 
 
 ### Research Interests
-
+---
 - Reinforcement Learning
 - Healthcare AI
 - Biomedical Signal Processing
