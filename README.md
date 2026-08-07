@@ -15,8 +15,6 @@ I am currently working at Samsung Research & Development Bangladesh (SRBD) as a 
 ---
 - Reinforcement Learning
 - Healthcare AI
-- Biomedical Signal Processing
-- Intelligent Embedded Systems
 
 
 ### Skills
